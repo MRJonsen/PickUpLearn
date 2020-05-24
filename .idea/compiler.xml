@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shiroDemo" />
+        <module name="cb_jedisdemo" />
+        <module name="springdemo" />
+        <module name="JedisDemo" />
+        <module name="shardingspheredemo" />
+        <module name="ssm" />
+        <module name="springboot_elk_demo" />
+        <module name="com" />
+        <module name="day06" />
+        <module name="day05" />
+        <module name="ActiveMQdemo" />
+        <module name="cb_mybatisdemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ActiveMQdemo" target="1.5" />
+      <module name="cb_jedisdemo" target="1.5" />
+      <module name="cb_mybatisdemo" target="1.5" />
+      <module name="com" target="1.7" />
+      <module name="day05" target="1.5" />
+      <module name="day06" target="1.5" />
+      <module name="JedisDemo" target="1.5" />
+      <module name="shardingspheredemo" target="1.5" />
+      <module name="shiroDemo" target="1.5" />
+      <module name="springboot_elk_demo" target="1.8" />
+      <module name="springdemo" target="6" />
+      <module name="ssm" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot_elk_demo" options="-parameters" />
+    </option>
+  </component>
+</project>

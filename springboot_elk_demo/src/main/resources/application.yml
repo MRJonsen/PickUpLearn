@@ -1,0 +1,7 @@
+spring:
+  data:
+    elasticsearch:
+      ####地址
+      cluster-nodes: 180.76.136.234:9300
+      cluster-name: my-application
+

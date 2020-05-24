@@ -83,7 +83,7 @@ public class Employee extends Role {
 //                        + fieldName.substring(1, fieldName.length());
 //
 //                Method method;
-//                java.lang.Object resultObj;
+//                java.java.lang.Object resultObj;
 //
 //                // 通过方法名得到方法对象
 //                method = clazz.getMethod(methodName);

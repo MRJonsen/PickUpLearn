@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActiveMQdemo/ActiveMQdemo.iml" filepath="$PROJECT_DIR$/ActiveMQdemo/ActiveMQdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDemo.iml" filepath="$PROJECT_DIR$/JavaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JedisDemo/JedisDemo.iml" filepath="$PROJECT_DIR$/JedisDemo/JedisDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMvcDemo/SpringMvcDemo.iml" filepath="$PROJECT_DIR$/SpringMvcDemo/SpringMvcDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cb_jedisdemo/cb_jedisdemo.iml" filepath="$PROJECT_DIR$/cb_jedisdemo/cb_jedisdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cb_mybatisdemo/cb_mybatisdemo.iml" filepath="$PROJECT_DIR$/cb_mybatisdemo/cb_mybatisdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/com.iml" filepath="$PROJECT_DIR$/com/com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04/day04.iml" filepath="$PROJECT_DIR$/day04/day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05/day05.iml" filepath="$PROJECT_DIR$/day05/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06/day06.iml" filepath="$PROJECT_DIR$/day06/day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBase/javaBase.iml" filepath="$PROJECT_DIR$/javaBase/javaBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shardingspheredemo/shardingspheredemo.iml" filepath="$PROJECT_DIR$/shardingspheredemo/shardingspheredemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiroDemo/shiroDemo.iml" filepath="$PROJECT_DIR$/shiroDemo/shiroDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketDemo/socketDemo.iml" filepath="$PROJECT_DIR$/socketDemo/socketDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_elk_demo/springboot_elk_demo.iml" filepath="$PROJECT_DIR$/springboot_elk_demo/springboot_elk_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdemo/springdemo.iml" filepath="$PROJECT_DIR$/springdemo/springdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm/ssm.iml" filepath="$PROJECT_DIR$/ssm/ssm.iml" />
+    </modules>
+  </component>
+</project>
